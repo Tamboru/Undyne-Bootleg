@@ -1,0 +1,2 @@
+instance_destroy(other) //indica que quando esses dois objetos se colidirem o ira ser destruido o obejto em colisão
+global.lifes --; //global.lifes aqui indica que quando colidido com objeto ele ira perde um ponto de vida 
