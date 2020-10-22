@@ -1,0 +1,1 @@
+image_speed = 0; //Para alternar a velocidade entra a mudança das 2 imagens(a branca e a amarela), em 0 ela nao vai ser alterada

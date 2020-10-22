@@ -1,0 +1,1 @@
+room_goto(room0)  //apos clicar leva para a sala

@@ -1,0 +1,1 @@
+image_index = 0; //quando nao tiver o ponteiro do mouse em cima ficar em cima ele ficara no sprite 0

@@ -119,11 +119,27 @@
             }
         },
         {
+            "Key": "5965610a-0350-47c6-a906-fa01b6abe2d7",
+            "Value": {
+                "id": "36fdb4a0-0e09-4390-a192-4354baeda73f",
+                "resourcePath": "objects\\dificil_boj\\dificil_boj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5cc4b1b1-6538-4da1-a954-ffb9773b9fe0",
             "Value": {
                 "id": "b3b2f5f4-cfdb-4719-899d-dd6cc6ddc9b7",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5cfbd149-9105-488f-ba36-3f11d7abdbde",
+            "Value": {
+                "id": "16c005be-1599-4439-ac71-186dff037f2d",
+                "resourcePath": "objects\\medio_obj\\medio_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -143,6 +159,22 @@
             }
         },
         {
+            "Key": "664f4c24-0f49-4770-8c73-cbac29b11d99",
+            "Value": {
+                "id": "fa9fb607-b575-44ae-bfa1-90c63ee97652",
+                "resourcePath": "sprites\\star_spr\\star_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74ed7c37-e160-4259-b4c4-5900d4280d00",
+            "Value": {
+                "id": "455ff047-f239-419b-ba3f-6adc17216d2c",
+                "resourcePath": "sprites\\medio_spt\\medio_spt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "8005ba88-1df6-4f93-a6e0-45611c085af5",
@@ -159,11 +191,27 @@
             }
         },
         {
+            "Key": "7b57a32a-0eec-436c-ba6e-6ea8d753bcc8",
+            "Value": {
+                "id": "aac6b7a0-aeb2-4a94-8287-10585603eb1f",
+                "resourcePath": "sprites\\dificil_spt\\dificil_spt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "3e51fcc3-a100-448e-8fca-b426c07d5a8a",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "81019d67-97c6-4ce8-b173-e25bd7e2ed0b",
+            "Value": {
+                "id": "ce90c19e-9e98-4805-bb7a-f9b04428dc04",
+                "resourcePath": "objects\\facil_obj\\facil_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -247,6 +295,14 @@
             }
         },
         {
+            "Key": "c07be331-a48e-48c7-92ba-e5158b2efe16",
+            "Value": {
+                "id": "6ecba80f-95f2-4944-9692-16d8ba2a8794",
+                "resourcePath": "views\\c07be331-a48e-48c7-92ba-e5158b2efe16.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c171c4f7-6a22-4e25-a3f7-657fe1e135e1",
             "Value": {
                 "id": "757ee520-bc02-4263-9d28-0e01300e7e65",
@@ -260,6 +316,14 @@
                 "id": "bbaf9ba4-c2c3-4b6b-9e0e-6571738e924a",
                 "resourcePath": "objects\\bolinha_obj\\bolinha_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8628602-cdfc-4979-a6c0-b241518c8df8",
+            "Value": {
+                "id": "abc36744-069d-407f-9305-64497c1d700c",
+                "resourcePath": "rooms\\room_Menu\\room_Menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -279,11 +343,27 @@
             }
         },
         {
+            "Key": "d8c1367a-d40a-464e-a4b1-85f5d24c40b6",
+            "Value": {
+                "id": "54473eb3-d542-43c1-b9cb-3a26d2329260",
+                "resourcePath": "views\\d8c1367a-d40a-464e-a4b1-85f5d24c40b6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "2da45835-9eff-4e33-8296-d95a734b68b5",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e61a5cd6-9238-4bb5-bde1-94d2e7437d64",
+            "Value": {
+                "id": "0764eb91-8f33-422d-b63b-7582fe057c5a",
+                "resourcePath": "sprites\\facil_spt\\facil_spt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
